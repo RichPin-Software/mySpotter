@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MySpotter</string>
+
+    <string-array name="options">
+        <item>Fitness Plan</item>
+        <item>Weights Tracker</item>
+        <item>Workout Tracker</item>
+    </string-array>
+
+    <string-array name="daysOfTheWeek">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+</resources>
